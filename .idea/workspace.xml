@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="147192df-d120-4c8c-9292-524694cb87b2" name="Default Changelist" comment="Création de login.js et de Dashboard.js et autres">
-      <change afterPath="$PROJECT_DIR$/client/src/components/Contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Conversations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/NewContactModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/NewConversationModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Sidebar.js" afterDir="false" />
+    <list default="true" id="147192df-d120-4c8c-9292-524694cb87b2" name="Default Changelist" comment="Création de NewConversationModal.js et NewContactModal.js et MàJ de Sidebar.js">
+      <change afterPath="$PROJECT_DIR$/client/src/contexts/ConversationsProvider.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/client/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Conversations.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Conversations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/NewContactModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NewContactModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/NewConversationModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NewConversationModal.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mBuhhPtu4n2Pp5YmylUNUwmkvZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,7 +68,13 @@
       <updated>1608979433185</updated>
       <workItem from="1608979437118" duration="3738000" />
       <workItem from="1608999394019" duration="636000" />
-      <workItem from="1609000068707" duration="3985000" />
+      <workItem from="1609000068707" duration="4183000" />
+      <workItem from="1609147164714" duration="5677000" />
+      <workItem from="1609234402615" duration="1278000" />
+      <workItem from="1609320735526" duration="944000" />
+      <workItem from="1609321706987" duration="3484000" />
+      <workItem from="1609409866755" duration="515000" />
+      <workItem from="1609410516726" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="Création de login.js et de Dashboard.js et autres">
       <created>1608999575550</created>
@@ -81,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608999625843</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Création de NewConversationModal.js et NewContactModal.js et MàJ de Sidebar.js">
+      <created>1609004239379</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609004239379</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Création de login.js et de Dashboard.js et autres" />
-    <option name="LAST_COMMIT_MESSAGE" value="Création de login.js et de Dashboard.js et autres" />
+    <MESSAGE value="Création de NewConversationModal.js et NewContactModal.js et MàJ de Sidebar.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Création de NewConversationModal.js et NewContactModal.js et MàJ de Sidebar.js" />
   </component>
 </project>
