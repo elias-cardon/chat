@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="147192df-d120-4c8c-9292-524694cb87b2" name="Default Changelist" comment="MàJ">
-      <change afterPath="$PROJECT_DIR$/client/src/components/OpenConversation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/client/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Conversations.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Conversations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Dashboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/NewContactModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NewContactModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/NewConversationModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NewConversationModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/contexts/ContactsProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/contexts/ContactsProvider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/contexts/ConversationsProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/contexts/ConversationsProvider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/hooks/useLocalStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/hooks/useLocalStorage.js" afterDir="false" />
-    </list>
+    <list default="true" id="147192df-d120-4c8c-9292-524694cb87b2" name="Default Changelist" comment="Chat finit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +66,7 @@
       <workItem from="1609321706987" duration="3484000" />
       <workItem from="1609409866755" duration="515000" />
       <workItem from="1609410516726" duration="5508000" />
-      <workItem from="1609500180396" duration="1217000" />
+      <workItem from="1609500180396" duration="1522000" />
     </task>
     <task id="LOCAL-00001" summary="Création de login.js et de Dashboard.js et autres">
       <created>1608999575550</created>
@@ -120,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609410992528</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Chat finit">
+      <created>1609502118457</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609502118457</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Chat finit">
+      <created>1609502152902</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609502152902</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +139,7 @@
     <MESSAGE value="Création de login.js et de Dashboard.js et autres" />
     <MESSAGE value="Création de NewConversationModal.js et NewContactModal.js et MàJ de Sidebar.js" />
     <MESSAGE value="MàJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="MàJ" />
+    <MESSAGE value="Chat finit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chat finit" />
   </component>
 </project>
