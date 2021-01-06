@@ -1,3 +1,4 @@
+//Quand la vie vous donne des citrons, dites que ce sont de oranges jaunes et vendez-les deux fois plus cher.
 import React from 'react'
 import Login from './Login'
 import useLocalStorage from '../hooks/useLocalStorage';
