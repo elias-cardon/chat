@@ -1,0 +1,8 @@
+body{
+}
+
+
+.subscriptionForm,.connexionForm{
+	display: none;
+	flex-direction:column;
+}
